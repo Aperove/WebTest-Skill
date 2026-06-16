@@ -33,7 +33,7 @@ git clone <this-repo> ~/.claude/skills/webtest-jp
 SKILL.md                    # 入口：工作流 + 测试/题型路由 + 输出规范
 references/                 # 各测试「判型 + 题型清单 + 出题形式」
   spi.md  tamatebako.md  gab-cab.md  tg-web.md  scoa-others.md
-  personality.md  company-map.md
+  personality.md  company-map.md  resources.md   # 做题时查资料的外部资源精选
 solutions/                  # 各题型「最快解法」模板
   spi-nonverbal.md  spi-verbal.md  tamatebako.md  cab.md
   tg-web.md  calc-shortcuts.md
